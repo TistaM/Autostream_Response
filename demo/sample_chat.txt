@@ -1,0 +1,25 @@
+AutoStream Agent: Hi! How can I help you today?
+
+User: Hi
+AutoStream Agent: Hi! I can help with AutoStream pricing, features, and plans.
+
+User: Tell me about your pricing
+AutoStream Agent:
+Basic Plan: $29/month, includes 10 videos/month, 720p resolution.
+Pro Plan: $79/month, includes Unlimited videos, 4K resolution, AI captions.
+
+User: That sounds good, I want to try the Pro plan for my YouTube channel
+AutoStream Agent: Great — I can help with that. What's your name?
+
+User: John Doe
+AutoStream Agent: Thanks! What's your email address?
+
+User: john@example.com
+AutoStream Agent: Got it. Which creator platform do you use, like YouTube or Instagram?
+
+User: YouTube
+Lead captured successfully: John Doe, john@example.com, YouTube
+AutoStream Agent: Perfect — your details have been captured successfully. Our team will reach out to you shortly.
+
+User: exit
+AutoStream Agent: Goodbye!
