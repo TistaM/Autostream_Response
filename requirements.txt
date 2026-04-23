@@ -1,0 +1,10 @@
+langchain
+langgraph
+openai
+python-dotenv
+pydantic
+tiktoken
+faiss-cpu
+uvicorn
+fastapi
+pytest
